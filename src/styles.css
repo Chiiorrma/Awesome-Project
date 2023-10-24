@@ -125,47 +125,6 @@ p {
     width: 50%;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5 {
-    font-weight: 500;
-    line-height: 1.2;
-  }
-
-  h2 {
-    font-size: 32px;
-    text-align: center;
-  }
-
-  h1 {
-    font-size: 48px;
-    line-height: 1.5;
-  }
-
-  .email-link {
-    font-size: 24px;
-  }
-
-  p {
-    text-align: center;
-  }
-
-  .launch-link {
-    display: block;
-    text-align: center;
-    margin: 0 20px;
-  }
-
-  .mt-5 {
-    margin-top: 3rem !important;
-  }
-
-  .text-center {
-    text-align: center !important;
-  }
-
   .row>* {
     flex-shrink: 0;
     width: 100%;
